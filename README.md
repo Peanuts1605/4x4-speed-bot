@@ -20,13 +20,15 @@
 ---
 
 ## Folder structure
+```
 docs/
-student_guide_module_01.md
+  student_guide_module_01.md
 code/
-step01_blink/step01_blink.ino
-step02_button_led/step02_button_led.ino
+  step01_blink/step01_blink.ino
+  step02_button_led/step02_button_led.ino
 images/
-(coming) wiring_button_led.png
+  (coming) wiring_button_led.png
+```
 ---
 
 ## Quick Start
@@ -63,3 +65,7 @@ images/
 
 ## License
 MIT (friendly for students and schools).
+
+---
+
+*Last updated:* 2025-09-29
